@@ -1,0 +1,501 @@
+semana,sabor_producto,clima,feriado,promocion,redes_sociales,unidades_vendidas
+40,vainilla,soleado,sí,sí,no,44
+18,dulce de leche,lluvioso,sí,no,no,36
+37,frutilla,lluvioso,sí,sí,no,33
+18,vainilla,lluvioso,sí,sí,sí,39
+16,limón,nublado,sí,no,no,28
+29,chocolate,lluvioso,sí,no,no,32
+30,limón,nublado,sí,sí,no,40
+43,frutilla,soleado,no,sí,no,37
+32,frutilla,nublado,no,no,sí,36
+32,frutilla,lluvioso,sí,sí,sí,47
+51,limón,soleado,sí,sí,no,40
+1,limón,soleado,sí,no,sí,33
+6,frutilla,nublado,sí,no,sí,32
+26,frutilla,lluvioso,sí,no,sí,30
+1,vainilla,nublado,sí,sí,sí,45
+44,limón,soleado,sí,no,sí,35
+45,vainilla,nublado,sí,sí,no,34
+47,chocolate,soleado,no,no,no,30
+25,vainilla,lluvioso,sí,sí,sí,43
+42,vainilla,nublado,no,sí,sí,38
+40,limón,soleado,sí,sí,sí,38
+38,limón,nublado,no,no,sí,24
+18,chocolate,soleado,no,sí,no,39
+34,dulce de leche,lluvioso,sí,no,no,42
+4,vainilla,nublado,no,sí,sí,39
+41,dulce de leche,soleado,sí,no,no,40
+25,dulce de leche,nublado,no,sí,no,39
+2,dulce de leche,soleado,sí,no,sí,42
+4,limón,lluvioso,no,no,no,20
+6,dulce de leche,lluvioso,sí,no,sí,40
+6,dulce de leche,soleado,sí,no,no,47
+41,chocolate,nublado,no,sí,sí,40
+6,limón,soleado,no,sí,no,38
+48,vainilla,soleado,sí,sí,sí,42
+32,frutilla,lluvioso,no,sí,no,30
+48,frutilla,lluvioso,sí,sí,no,39
+18,dulce de leche,soleado,no,sí,no,48
+33,frutilla,soleado,no,sí,no,36
+17,chocolate,lluvioso,sí,sí,sí,39
+1,vainilla,soleado,no,no,no,25
+12,chocolate,lluvioso,no,sí,no,33
+27,frutilla,nublado,sí,no,sí,40
+44,chocolate,soleado,sí,sí,no,42
+30,frutilla,nublado,no,sí,no,31
+24,vainilla,nublado,no,sí,no,33
+38,limón,soleado,sí,sí,sí,43
+2,vainilla,lluvioso,no,sí,no,25
+49,limón,lluvioso,no,sí,sí,34
+16,limón,nublado,sí,sí,no,31
+3,vainilla,lluvioso,no,no,no,18
+38,chocolate,lluvioso,sí,no,sí,40
+37,chocolate,nublado,sí,sí,no,42
+21,limón,lluvioso,no,no,no,18
+15,chocolate,soleado,sí,sí,sí,46
+11,limón,nublado,no,no,sí,29
+23,vainilla,nublado,no,no,no,21
+6,vainilla,lluvioso,no,sí,sí,34
+10,chocolate,lluvioso,sí,no,no,35
+4,frutilla,nublado,sí,sí,no,43
+36,dulce de leche,soleado,sí,no,sí,44
+8,chocolate,soleado,sí,sí,sí,51
+24,chocolate,lluvioso,no,sí,sí,35
+13,limón,soleado,sí,no,sí,29
+30,chocolate,soleado,no,no,no,28
+25,limón,soleado,no,sí,sí,36
+18,limón,soleado,sí,sí,no,40
+27,dulce de leche,nublado,sí,sí,no,49
+9,limón,soleado,sí,sí,no,38
+31,dulce de leche,nublado,no,no,no,34
+12,chocolate,nublado,sí,sí,no,38
+52,limón,lluvioso,no,sí,sí,27
+16,vainilla,nublado,sí,sí,no,38
+12,vainilla,soleado,no,no,sí,32
+37,dulce de leche,soleado,sí,no,no,40
+32,chocolate,soleado,sí,sí,sí,45
+34,limón,soleado,no,sí,sí,37
+46,vainilla,nublado,sí,sí,sí,46
+46,vainilla,soleado,no,sí,no,41
+26,dulce de leche,soleado,no,no,no,35
+11,limón,lluvioso,no,no,sí,26
+45,dulce de leche,nublado,sí,sí,no,47
+47,frutilla,soleado,sí,sí,no,48
+3,vainilla,lluvioso,no,sí,sí,36
+10,frutilla,lluvioso,sí,sí,no,38
+11,chocolate,lluvioso,no,no,sí,30
+14,vainilla,lluvioso,sí,no,no,23
+47,chocolate,soleado,no,no,no,30
+27,limón,nublado,no,no,sí,28
+51,dulce de leche,lluvioso,sí,sí,no,41
+52,chocolate,nublado,sí,no,no,31
+5,frutilla,soleado,no,sí,sí,46
+6,frutilla,lluvioso,no,sí,no,38
+11,dulce de leche,nublado,sí,sí,sí,52
+14,vainilla,nublado,no,no,no,23
+7,chocolate,nublado,no,sí,sí,42
+1,limón,soleado,no,no,sí,25
+2,vainilla,soleado,no,sí,no,32
+20,limón,nublado,no,no,sí,31
+35,limón,soleado,no,no,no,22
+29,chocolate,nublado,no,no,no,28
+18,dulce de leche,soleado,sí,sí,sí,60
+23,dulce de leche,nublado,sí,sí,no,51
+27,dulce de leche,lluvioso,no,sí,no,39
+6,limón,lluvioso,sí,sí,sí,38
+12,vainilla,soleado,sí,sí,sí,46
+6,limón,soleado,sí,no,no,26
+6,limón,lluvioso,no,no,no,22
+30,chocolate,lluvioso,no,sí,no,32
+10,dulce de leche,lluvioso,sí,sí,sí,48
+35,frutilla,nublado,no,no,no,32
+39,limón,soleado,sí,no,no,27
+40,dulce de leche,lluvioso,no,sí,no,40
+45,vainilla,soleado,no,no,no,23
+22,frutilla,nublado,no,no,sí,30
+9,frutilla,lluvioso,no,no,no,26
+39,chocolate,soleado,no,sí,no,43
+49,dulce de leche,nublado,sí,sí,sí,51
+46,dulce de leche,nublado,sí,sí,sí,50
+13,chocolate,soleado,sí,no,sí,42
+46,vainilla,nublado,no,no,no,30
+8,chocolate,soleado,no,no,no,30
+31,dulce de leche,lluvioso,no,no,sí,35
+48,chocolate,nublado,sí,no,sí,36
+37,vainilla,soleado,sí,sí,no,46
+27,dulce de leche,soleado,sí,no,sí,52
+12,dulce de leche,soleado,sí,no,no,48
+18,limón,nublado,no,no,no,20
+30,frutilla,lluvioso,no,sí,sí,40
+43,frutilla,lluvioso,no,no,sí,31
+5,frutilla,nublado,no,no,no,33
+46,frutilla,soleado,sí,sí,sí,52
+26,frutilla,lluvioso,sí,sí,no,37
+17,limón,nublado,no,sí,sí,34
+47,vainilla,lluvioso,no,no,no,19
+43,dulce de leche,soleado,no,sí,no,43
+48,frutilla,lluvioso,sí,no,sí,32
+23,vainilla,lluvioso,no,no,no,22
+17,dulce de leche,nublado,no,sí,no,38
+41,dulce de leche,lluvioso,sí,no,sí,44
+8,limón,lluvioso,no,no,sí,20
+9,vainilla,nublado,no,no,sí,29
+46,vainilla,soleado,no,no,sí,32
+41,chocolate,soleado,no,no,sí,34
+37,vainilla,nublado,sí,sí,no,43
+28,limón,nublado,no,no,sí,21
+35,vainilla,lluvioso,no,sí,no,33
+13,chocolate,lluvioso,sí,sí,sí,44
+20,vainilla,soleado,no,no,sí,28
+3,frutilla,nublado,no,no,no,33
+9,frutilla,nublado,no,sí,sí,41
+2,vainilla,soleado,sí,sí,sí,49
+33,vainilla,soleado,no,sí,no,41
+17,dulce de leche,lluvioso,sí,sí,sí,54
+2,chocolate,lluvioso,sí,no,no,33
+8,dulce de leche,nublado,no,sí,sí,52
+41,chocolate,nublado,no,sí,no,42
+39,vainilla,nublado,sí,sí,no,34
+51,chocolate,nublado,sí,sí,no,46
+13,frutilla,lluvioso,no,no,sí,24
+36,limón,soleado,no,no,sí,24
+1,chocolate,soleado,no,sí,sí,48
+5,chocolate,nublado,sí,no,no,34
+30,chocolate,soleado,sí,sí,no,46
+52,frutilla,nublado,sí,sí,sí,40
+9,vainilla,nublado,no,no,no,21
+24,frutilla,soleado,sí,no,no,38
+18,limón,lluvioso,no,no,sí,19
+9,chocolate,soleado,sí,no,no,42
+44,limón,soleado,no,no,sí,34
+47,vainilla,nublado,no,sí,no,35
+3,chocolate,nublado,no,sí,sí,47
+22,dulce de leche,lluvioso,sí,no,sí,43
+23,limón,soleado,sí,sí,sí,45
+31,limón,soleado,sí,no,no,28
+22,frutilla,soleado,sí,no,no,34
+6,limón,nublado,no,sí,no,32
+21,chocolate,nublado,sí,sí,no,44
+3,dulce de leche,lluvioso,sí,sí,no,48
+36,vainilla,lluvioso,no,no,no,17
+15,limón,nublado,no,no,no,18
+7,vainilla,soleado,no,no,no,31
+34,frutilla,lluvioso,sí,sí,sí,44
+9,limón,soleado,no,sí,sí,33
+26,vainilla,nublado,sí,no,sí,35
+3,dulce de leche,soleado,no,no,sí,44
+1,dulce de leche,lluvioso,sí,no,no,40
+50,vainilla,lluvioso,sí,sí,sí,40
+43,dulce de leche,lluvioso,no,no,no,36
+45,vainilla,nublado,no,no,no,27
+52,vainilla,soleado,no,no,no,31
+41,vainilla,soleado,sí,no,no,38
+9,vainilla,lluvioso,no,sí,no,33
+31,dulce de leche,lluvioso,no,no,no,27
+34,chocolate,soleado,no,sí,sí,50
+4,vainilla,nublado,sí,no,no,27
+4,frutilla,soleado,sí,no,no,32
+40,dulce de leche,soleado,no,sí,no,51
+4,limón,nublado,no,no,sí,21
+48,frutilla,soleado,no,sí,no,43
+35,dulce de leche,soleado,sí,no,no,40
+44,chocolate,soleado,sí,sí,no,41
+28,frutilla,lluvioso,no,sí,sí,41
+17,chocolate,nublado,no,sí,sí,39
+21,dulce de leche,soleado,no,no,no,34
+51,frutilla,lluvioso,sí,sí,sí,45
+11,limón,lluvioso,no,sí,no,25
+14,frutilla,nublado,no,no,sí,36
+34,limón,lluvioso,sí,sí,no,34
+16,dulce de leche,lluvioso,sí,sí,no,46
+51,chocolate,nublado,no,no,sí,37
+50,frutilla,lluvioso,no,no,sí,28
+42,vainilla,nublado,sí,sí,sí,45
+35,chocolate,lluvioso,sí,sí,sí,49
+28,chocolate,soleado,no,sí,sí,40
+30,frutilla,soleado,sí,sí,sí,45
+51,frutilla,lluvioso,sí,sí,no,39
+25,limón,lluvioso,no,no,no,14
+25,chocolate,lluvioso,sí,sí,sí,40
+23,dulce de leche,soleado,no,no,sí,41
+49,limón,nublado,no,sí,no,27
+35,vainilla,soleado,no,no,sí,31
+44,frutilla,soleado,sí,sí,sí,43
+37,dulce de leche,nublado,sí,no,sí,44
+14,limón,lluvioso,sí,sí,sí,34
+40,frutilla,soleado,sí,sí,sí,51
+30,dulce de leche,soleado,no,sí,no,42
+13,dulce de leche,nublado,no,no,sí,44
+42,vainilla,soleado,no,sí,sí,40
+32,limón,nublado,no,sí,no,30
+28,vainilla,soleado,no,sí,sí,45
+28,frutilla,nublado,sí,no,no,35
+29,frutilla,nublado,no,sí,sí,45
+39,chocolate,nublado,sí,sí,no,48
+5,chocolate,soleado,sí,no,sí,37
+36,frutilla,lluvioso,no,sí,no,34
+15,dulce de leche,lluvioso,no,sí,no,43
+33,chocolate,nublado,no,sí,sí,46
+44,vainilla,lluvioso,sí,no,sí,28
+37,dulce de leche,lluvioso,sí,no,no,32
+15,limón,soleado,sí,no,no,28
+3,vainilla,lluvioso,no,no,no,24
+3,chocolate,lluvioso,no,sí,no,34
+38,dulce de leche,lluvioso,sí,no,no,37
+38,chocolate,lluvioso,no,no,sí,34
+26,frutilla,nublado,no,no,sí,35
+9,limón,soleado,sí,sí,no,36
+10,vainilla,soleado,no,sí,sí,41
+52,frutilla,lluvioso,sí,no,no,32
+14,dulce de leche,soleado,no,sí,sí,45
+9,dulce de leche,lluvioso,sí,sí,sí,53
+10,chocolate,soleado,no,sí,no,45
+37,chocolate,lluvioso,no,sí,sí,41
+39,limón,nublado,sí,sí,no,39
+10,dulce de leche,soleado,no,sí,no,48
+39,dulce de leche,soleado,sí,no,no,40
+7,chocolate,soleado,no,sí,sí,42
+31,dulce de leche,lluvioso,sí,sí,sí,51
+43,vainilla,lluvioso,sí,no,no,27
+3,dulce de leche,nublado,sí,no,no,40
+38,dulce de leche,soleado,no,sí,no,48
+50,vainilla,soleado,no,no,no,26
+1,chocolate,lluvioso,sí,sí,no,45
+14,frutilla,nublado,no,sí,sí,41
+42,dulce de leche,nublado,no,no,no,39
+18,limón,soleado,no,no,sí,29
+36,dulce de leche,nublado,no,no,no,36
+48,vainilla,lluvioso,sí,sí,no,32
+7,vainilla,lluvioso,no,no,sí,23
+25,chocolate,soleado,sí,no,no,34
+5,frutilla,soleado,no,sí,sí,44
+26,dulce de leche,lluvioso,no,sí,sí,49
+32,limón,soleado,sí,no,sí,29
+51,dulce de leche,lluvioso,sí,sí,sí,49
+16,chocolate,soleado,sí,no,no,38
+43,limón,nublado,sí,sí,sí,35
+36,frutilla,lluvioso,no,no,no,23
+39,vainilla,nublado,no,sí,no,30
+27,dulce de leche,soleado,sí,no,no,39
+52,dulce de leche,nublado,no,no,no,39
+31,vainilla,nublado,no,no,sí,31
+8,frutilla,soleado,no,sí,sí,43
+27,frutilla,lluvioso,sí,no,sí,33
+6,limón,lluvioso,no,sí,sí,33
+21,frutilla,soleado,no,sí,sí,45
+48,vainilla,soleado,sí,no,sí,35
+13,vainilla,lluvioso,no,sí,sí,30
+6,limón,lluvioso,sí,sí,no,32
+40,frutilla,nublado,no,no,sí,35
+18,limón,soleado,sí,sí,no,40
+35,chocolate,lluvioso,no,no,sí,33
+8,dulce de leche,nublado,no,sí,sí,52
+14,limón,lluvioso,sí,no,no,28
+17,vainilla,lluvioso,no,sí,no,32
+40,frutilla,nublado,sí,no,no,31
+27,frutilla,nublado,no,no,no,25
+37,vainilla,lluvioso,sí,sí,no,33
+36,limón,nublado,sí,sí,sí,41
+52,chocolate,soleado,no,no,sí,42
+34,dulce de leche,lluvioso,no,no,no,31
+36,dulce de leche,soleado,no,sí,sí,45
+14,frutilla,nublado,sí,no,no,32
+24,frutilla,lluvioso,no,no,sí,30
+8,frutilla,lluvioso,sí,sí,no,38
+21,dulce de leche,nublado,no,sí,no,47
+19,limón,lluvioso,sí,sí,no,33
+41,dulce de leche,lluvioso,no,sí,sí,41
+22,vainilla,nublado,no,no,no,29
+42,limón,nublado,no,no,no,23
+11,vainilla,soleado,sí,sí,no,37
+14,vainilla,nublado,sí,sí,sí,44
+36,chocolate,soleado,no,sí,sí,44
+40,vainilla,soleado,no,no,sí,30
+48,frutilla,nublado,sí,sí,sí,40
+3,frutilla,nublado,no,no,no,31
+29,vainilla,lluvioso,sí,no,no,30
+41,dulce de leche,nublado,no,no,sí,35
+29,frutilla,nublado,no,no,sí,31
+1,chocolate,lluvioso,sí,no,no,34
+35,chocolate,lluvioso,no,no,no,22
+50,limón,nublado,sí,sí,no,33
+27,dulce de leche,nublado,no,sí,sí,52
+25,limón,soleado,no,sí,no,38
+16,dulce de leche,lluvioso,no,no,no,33
+13,chocolate,soleado,sí,no,sí,47
+30,dulce de leche,nublado,no,no,sí,39
+2,vainilla,soleado,sí,sí,sí,44
+18,vainilla,lluvioso,no,sí,sí,30
+10,chocolate,nublado,sí,no,no,34
+51,limón,nublado,no,sí,no,26
+49,vainilla,soleado,no,no,sí,35
+31,vainilla,soleado,no,no,sí,28
+50,vainilla,nublado,no,sí,sí,35
+30,chocolate,lluvioso,sí,no,no,37
+20,frutilla,soleado,sí,sí,no,46
+41,frutilla,soleado,no,sí,sí,39
+16,limón,nublado,sí,sí,no,39
+8,limón,soleado,sí,sí,no,42
+10,frutilla,soleado,sí,sí,no,40
+44,dulce de leche,nublado,sí,sí,no,53
+10,dulce de leche,soleado,sí,no,sí,47
+36,frutilla,nublado,sí,sí,no,41
+47,vainilla,nublado,sí,no,no,33
+19,dulce de leche,lluvioso,no,sí,sí,47
+23,frutilla,lluvioso,no,no,sí,25
+34,vainilla,nublado,no,no,no,27
+1,dulce de leche,nublado,sí,sí,no,52
+16,frutilla,lluvioso,sí,no,sí,37
+44,limón,lluvioso,sí,no,no,25
+42,frutilla,soleado,sí,sí,sí,45
+12,chocolate,soleado,sí,no,sí,38
+3,dulce de leche,lluvioso,no,no,no,27
+24,vainilla,lluvioso,sí,sí,sí,44
+32,chocolate,nublado,sí,no,no,35
+51,chocolate,lluvioso,no,sí,sí,38
+5,vainilla,lluvioso,sí,sí,sí,42
+25,vainilla,soleado,sí,sí,no,37
+50,dulce de leche,nublado,no,no,sí,36
+51,vainilla,lluvioso,no,no,sí,29
+39,limón,nublado,no,no,no,23
+49,limón,lluvioso,no,sí,sí,32
+50,dulce de leche,lluvioso,no,no,no,34
+26,chocolate,lluvioso,sí,no,sí,39
+9,frutilla,soleado,no,sí,sí,43
+2,frutilla,lluvioso,sí,sí,sí,44
+23,vainilla,soleado,no,no,sí,30
+17,frutilla,soleado,no,sí,sí,43
+51,limón,soleado,no,sí,no,28
+47,dulce de leche,nublado,sí,sí,no,48
+28,limón,soleado,sí,sí,no,33
+20,dulce de leche,soleado,no,sí,no,49
+45,vainilla,soleado,sí,no,no,37
+37,dulce de leche,soleado,sí,no,no,44
+10,vainilla,nublado,sí,no,sí,37
+26,frutilla,soleado,no,no,sí,32
+31,dulce de leche,soleado,no,no,sí,45
+40,dulce de leche,soleado,sí,sí,no,52
+21,dulce de leche,soleado,sí,no,no,43
+23,vainilla,nublado,no,sí,no,30
+23,dulce de leche,nublado,sí,no,sí,42
+13,frutilla,soleado,sí,sí,sí,46
+40,vainilla,nublado,sí,no,sí,33
+29,limón,soleado,no,sí,sí,35
+35,dulce de leche,nublado,no,sí,sí,48
+38,dulce de leche,soleado,no,sí,sí,49
+13,dulce de leche,nublado,sí,no,sí,40
+25,frutilla,lluvioso,no,sí,sí,36
+42,limón,soleado,no,sí,no,35
+39,dulce de leche,soleado,sí,sí,no,54
+46,chocolate,soleado,sí,no,no,40
+26,vainilla,soleado,no,no,no,33
+20,vainilla,lluvioso,no,sí,no,31
+2,dulce de leche,nublado,sí,sí,no,49
+43,vainilla,soleado,no,sí,no,34
+37,vainilla,nublado,no,no,no,28
+9,vainilla,lluvioso,sí,sí,sí,38
+45,dulce de leche,soleado,no,sí,sí,50
+5,dulce de leche,lluvioso,sí,sí,no,42
+47,chocolate,nublado,no,no,no,32
+48,frutilla,soleado,sí,sí,sí,45
+2,dulce de leche,lluvioso,no,sí,sí,42
+44,chocolate,nublado,sí,no,sí,42
+39,limón,lluvioso,no,sí,no,29
+31,vainilla,soleado,sí,sí,sí,46
+49,chocolate,nublado,no,sí,sí,40
+5,vainilla,nublado,no,no,no,23
+28,limón,soleado,no,no,no,29
+48,dulce de leche,lluvioso,sí,sí,no,47
+3,vainilla,lluvioso,no,sí,no,33
+49,chocolate,soleado,no,no,no,32
+50,frutilla,nublado,sí,no,no,37
+4,dulce de leche,soleado,no,no,sí,45
+8,vainilla,lluvioso,sí,no,no,27
+29,chocolate,soleado,no,sí,no,37
+17,frutilla,lluvioso,sí,sí,sí,38
+46,limón,lluvioso,no,sí,no,30
+40,vainilla,nublado,no,sí,sí,37
+37,vainilla,soleado,sí,sí,sí,46
+20,frutilla,lluvioso,no,no,sí,25
+9,vainilla,soleado,no,sí,no,38
+32,dulce de leche,soleado,no,sí,sí,54
+43,limón,nublado,no,no,sí,30
+39,chocolate,soleado,no,sí,sí,42
+10,chocolate,lluvioso,no,sí,sí,34
+43,dulce de leche,lluvioso,no,no,sí,31
+7,limón,soleado,sí,no,sí,36
+48,dulce de leche,nublado,sí,sí,no,48
+24,limón,soleado,no,sí,no,35
+9,chocolate,lluvioso,no,no,no,30
+14,vainilla,lluvioso,sí,sí,sí,41
+47,dulce de leche,lluvioso,no,no,no,31
+34,dulce de leche,lluvioso,no,sí,no,43
+47,limón,nublado,sí,sí,no,33
+1,chocolate,soleado,no,sí,sí,49
+27,limón,soleado,no,no,sí,24
+41,vainilla,lluvioso,no,no,sí,25
+20,dulce de leche,lluvioso,no,sí,sí,49
+22,frutilla,nublado,sí,sí,sí,45
+22,limón,nublado,sí,sí,no,32
+41,limón,lluvioso,no,no,no,14
+34,frutilla,lluvioso,no,sí,sí,41
+44,frutilla,nublado,sí,sí,no,36
+22,limón,lluvioso,sí,no,sí,32
+8,frutilla,lluvioso,no,sí,no,34
+6,limón,soleado,no,no,no,23
+34,frutilla,soleado,sí,no,sí,38
+6,limón,lluvioso,sí,no,sí,26
+22,limón,lluvioso,no,no,sí,19
+34,vainilla,soleado,sí,no,no,36
+8,chocolate,nublado,sí,sí,no,45
+3,chocolate,lluvioso,no,sí,no,40
+14,frutilla,soleado,sí,no,no,39
+21,limón,lluvioso,sí,no,sí,25
+18,chocolate,soleado,sí,sí,no,49
+21,frutilla,soleado,no,sí,sí,39
+20,dulce de leche,nublado,no,sí,sí,42
+31,chocolate,soleado,no,sí,sí,46
+26,vainilla,lluvioso,no,no,no,22
+13,dulce de leche,soleado,no,sí,sí,52
+7,limón,nublado,no,no,sí,24
+10,dulce de leche,nublado,no,no,sí,44
+22,frutilla,nublado,no,sí,sí,42
+8,frutilla,nublado,no,sí,no,36
+39,dulce de leche,soleado,sí,no,sí,47
+36,chocolate,nublado,no,no,no,28
+40,vainilla,lluvioso,sí,no,no,23
+22,vainilla,lluvioso,no,no,no,25
+45,vainilla,soleado,sí,no,sí,41
+39,limón,nublado,sí,no,sí,30
+26,chocolate,lluvioso,sí,no,no,34
+42,chocolate,soleado,sí,sí,sí,47
+43,vainilla,nublado,no,no,no,23
+14,frutilla,nublado,no,no,no,24
+38,chocolate,lluvioso,no,sí,no,30
+24,dulce de leche,soleado,sí,no,sí,46
+2,vainilla,nublado,no,no,no,26
+25,limón,lluvioso,sí,sí,no,29
+13,dulce de leche,nublado,no,no,sí,38
+43,vainilla,soleado,sí,sí,sí,42
+47,limón,lluvioso,no,sí,sí,28
+42,limón,nublado,no,sí,no,33
+28,dulce de leche,nublado,no,no,sí,36
+28,dulce de leche,soleado,no,sí,no,47
+35,dulce de leche,nublado,sí,sí,no,48
+8,dulce de leche,nublado,sí,sí,no,50
+34,chocolate,lluvioso,sí,sí,no,45
+48,chocolate,lluvioso,no,sí,no,38
+50,chocolate,nublado,no,no,no,31
+23,frutilla,nublado,sí,sí,no,45
+17,chocolate,lluvioso,no,sí,sí,44
+19,dulce de leche,soleado,no,no,sí,39
+33,chocolate,nublado,no,sí,no,37
+17,chocolate,lluvioso,sí,sí,sí,49
+29,frutilla,soleado,no,sí,no,36
+52,dulce de leche,soleado,no,sí,sí,54
+10,limón,nublado,no,sí,no,35
+11,vainilla,lluvioso,no,sí,no,26
+4,vainilla,nublado,no,no,no,27
+48,dulce de leche,soleado,no,no,no,37
+10,dulce de leche,nublado,sí,no,no,41
+44,frutilla,lluvioso,sí,sí,no,39
